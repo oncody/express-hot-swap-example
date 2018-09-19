@@ -1,0 +1,19 @@
+{
+  "name": "express-hot-swap-example",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "webpack --hot --mode=development"
+  },
+  "author": "Cody Smith",
+  "license": "MIT",
+  "dependencies": {
+    "clean-webpack-plugin": "latest",
+    "express": "latest",
+    "start-server-webpack-plugin": "latest",
+    "webpack": "latest",
+    "webpack-node-externals": "latest"
+  },
+  "devDependencies": {
+    "webpack-cli": "latest"
+  }
+}
