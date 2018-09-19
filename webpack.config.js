@@ -7,7 +7,7 @@ const hotWebpackClient = 'webpack/hot/poll?500';
 module.exports = {
   entry: [
     hotWebpackClient,
-    './server/server'
+    './index'
   ],
   watch: true,
   watchOptions: {
