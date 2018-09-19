@@ -1,5 +1,5 @@
 {
-  "name": "express-hot-swap-example",
+  "name": "express-hot-swap",
   "version": "1.0.0",
   "scripts": {
     "start": "webpack --hot --mode=development"
